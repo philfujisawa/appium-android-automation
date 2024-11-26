@@ -1,9 +1,6 @@
 # Appium Android Automation
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![Languages](https://img.shields.io/github/languages/top/philfujisawa/appium-android-automation)](#)
-
+![Imagem](assets/appium-android-automation.png)
 ## 📜 Project Description
 
 This repository contains an automated testing framework built using **Appium** for Android applications. The project demonstrates proficiency in mobile test automation, covering key functionalities such as setting up test environments, creating reusable test scripts, and integrating with CI/CD pipelines. 
@@ -61,7 +58,7 @@ appium
 
 5. Run the tests:
 ```bash
-npm test
+npx wdio
 ```
 
 ## 🧪 How It Works
